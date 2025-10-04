@@ -1,2 +1,5 @@
-# examples-jdk21-jdk24-jdk25-features
-Notes On How We Do Things In New JDK (21 upwards, the latest ones has higher priority)
+# Examples JDK21 JDK24 JDK25 Features
+
+Notes on how we do things in new JDK (21 upwards, the latest ones has higher priority)
+
+1. [HOW TO SET ENDIAN OF JAVA MEMORYSEGMENT](HOW_TO_SET_ENDIAN_OF_JAVA_MEMORYSEGMENT.md)
